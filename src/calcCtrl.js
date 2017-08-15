@@ -34,5 +34,5 @@
         vm.result = 'Operator not implemented';
       }
     }
-  };
+  }
 }());
